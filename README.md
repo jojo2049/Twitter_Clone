@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Ran into some issues when connecting to twitter API. I just needed to elevate my access on my developer account.
 
 ## Open-source libraries used
 
